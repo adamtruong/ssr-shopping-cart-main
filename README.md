@@ -1,5 +1,7 @@
-# Convert Regular CSR React App To SSR React App Using vite-pulign-ssr
+#SSR Shopping Website
+A simple SSR dynamic shopping website for aws implementation
 
+How To Convert Regular CSR React App To SSR React App Using vite-pulign-ssr
 1. open csr react app in vs code
 2. open a new vs code window
 3. open terminal and run:
@@ -13,4 +15,8 @@
 6. copy App component to pages/index folder
 7. Edit PageShell.jsx to only render {children}
 8. Edit index.page.jsx to render <App /> component
-"# SSR-Shopping-website-" 
+9. Run the app:
+
+   ```shell
+   npm run dev
+   ```
