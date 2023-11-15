@@ -13,3 +13,4 @@
 6. copy App component to pages/index folder
 7. Edit PageShell.jsx to only render {children}
 8. Edit index.page.jsx to render <App /> component
+"# SSR-Shopping-website-" 
