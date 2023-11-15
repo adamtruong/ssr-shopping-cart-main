@@ -1,4 +1,4 @@
-#SSR Shopping Website-
+#SSR Shopping Website
 
 A simple SSR dynamic shopping website for aws implementation
 
